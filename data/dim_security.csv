@@ -1,0 +1,6 @@
+ticker,sector,start_price
+AAA,Tech,120.0
+BBB,Health,85.0
+CCC,Energy,45.0
+DDD,Finance,55.0
+ETF-MKT,Broad,100.0
